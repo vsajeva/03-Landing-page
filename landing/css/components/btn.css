@@ -1,0 +1,8 @@
+.btn-treehouse{
+  background-color: rgb(6, 156, 243);
+  color: rgb(249, 248, 248);
+  display: inline-block;
+  border-radius: 50px;
+  padding: 16px 36px;
+  text-emphasis: bold;
+}
